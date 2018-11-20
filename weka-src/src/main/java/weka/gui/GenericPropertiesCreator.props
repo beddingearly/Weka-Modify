@@ -32,6 +32,7 @@ weka.classifiers.Classifier=\
  weka.classifiers.trees,\
  weka.classifiers.jlx,\
  weka.classifiers.wangliyuID3,\
+ weka.classifiers.wztong,\
  weka.classifiers.rules
 
 # Lists the Filters-Packages I want to choose from
